@@ -50,7 +50,7 @@ After you do, verify the slot exists in the [Amazon Lex Console Intent view](htt
 Submit pull requests or tweet [@ayetempleton](https://twitter.com/ayetempleton) if you want to get involved with roadmap as well, or if you want to do this for a living :)
 
 
-##### License
+##### License 
 
 [MIT](./License)
 
