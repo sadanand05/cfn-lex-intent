@@ -43,7 +43,7 @@ After you do, verify the slot exists in the [Amazon Lex Console Intent view](htt
   The `Properties` exactly follow the API endpoint parameter structure the nodejs SDK uses. The method can be found in [the AWS docs here](http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/LexModelBuildingService.html#putIntent-property)
 
 
-#### Miscellaneous
+#### Miscellaneous#
 
 ##### Collaboration & Requests
 
