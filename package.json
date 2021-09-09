@@ -4,11 +4,11 @@
   "description": "AWS CloudFormation Custom Lambda Resource | AWS Lex Intent",
   "main": "index.js",
   "scripts": {
-    "deploy": "node ./node_modules/cfn-lambda/deploy.js --regions eu-west-2 --logs --public"
+    "deploy": "node ./node_modules/cfn-lambda/deploy.js --regions ap-southeast-2 --logs --public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrew-templeton/cfn-lex-intent.git"
+    "url": "git+https://github.com/sadanand05/cfn-lex-intent.git"
   },
   "keywords": [
     "aws",
@@ -23,12 +23,12 @@
     "intent",
     "intents"
   ],
-  "author": "Andrew Templeton <andrw.tmplton@gmail.com> (https://github.com/andrew-templeton)",
-  "license": "MIT",
+  "author": "Sadanand A ",
+  "license": "Foxtel",
   "bugs": {
-    "url": "https://github.com/andrew-templeton/cfn-lex-intent/issues"
+    "url": "https://github.com/sadanand05/cfn-lex-intent/issues"
   },
-  "homepage": "https://github.com/andrew-templeton/cfn-lex-intent#readme",
+  "homepage": "https://github.com/sadanand05/cfn-lex-intent#readme",
   "dependencies": {
     "cfn-lambda": "^4.0.0"
   }
